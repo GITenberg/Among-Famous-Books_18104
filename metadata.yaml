@@ -1,0 +1,31 @@
+_repo: Among-Famous-Books_18104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kelman, John
+    birthdate: 1864
+    deathdate: 1929
+    gutenberg_agent_id: '7810'
+    url: http://www.gutenberg.org/2009/agents/7810
+description: ''
+gutenberg_issued: '2006-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18104'
+  lccn: '14000465'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading'
+- !lcc 'PN'
+- !lcsh 'Literature -- History and criticism'
+tableOfContents: The gods of Greece -- Marius the Epicurean -- The two Fausts -- Celtic
+  revivals of paganism -- John Bunyan -- Pepy's diary -- Sartor resartus -- Pagan
+  reactions -- Mr. G. K. Chesterton's point of view -- The hound of heaven.
+title: Among Famous Books
+url: http://www.gutenberg.org/ebooks/18104
